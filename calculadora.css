@@ -1,0 +1,250 @@
+* {
+    background-color: #d2dddd;
+    margin-top: 3%;
+}
+
+
+.titulo1 {
+    text-align: center;
+    color: #3e8f92;
+    font-size: 200%;
+    top: 30%;
+}
+
+
+.subtitulo1 {
+    color: rgb(102, 106, 106);
+    font-size: x-large;
+    position: absolute;
+    font-style: bold italic;
+    top: 15%;
+    left: 44.1%;
+}
+
+
+.subtitulo2 {
+    color: rgb(102, 106, 106);
+    font-size: x-large;
+    position: absolute;
+    font-style: bold italic;
+    top: 60%;
+    left: 42.5%;
+}
+
+
+.subtitulo3 {
+    color: rgb(102, 106, 106);
+    font-size: x-large;
+    position: absolute;
+    font-style: bold italic;
+    top: 115%;
+    left: 32%;
+}
+
+
+.subtitulo4 {
+    color: rgb(102, 106, 106);
+    font-size: x-large;
+    position: absolute;
+    font-style: bold italic;
+    top: 163%;
+    left: 40%;
+}
+
+.subtitulo5 {
+    color: rgb(102, 106, 106);
+    font-size: x-large;
+    position: absolute;
+    font-style: bold italic;
+    top: 215%;
+    left: 43%;
+}
+
+.subtitulo6 {
+    color: rgb(102, 106, 106);
+    font-size: x-large;
+    position: absolute;
+    font-style: bold italic;
+    top: 258%;
+    left: 42.3%;
+}
+
+.formula {
+    color: rgb(102, 106, 106);
+    position: absolute;
+    font-style: bold italic;
+    top: 103%;
+    left: 36%;
+    font-size: 85%;
+}
+
+
+.btn1 {
+    border-color: cadetblue;
+    background-color: #5f9ea0;
+    margin-left: 50%;
+    left: -3%;
+    position: absolute;
+    top: 40%;
+}
+
+
+.btn2 {
+    border-color: cadetblue;
+    background-color: #5f9ea0;
+    margin-left: 50%;
+    left: -3%;
+    position: absolute;
+    top: 85.2%;
+}
+
+
+.btn3 {
+    border-color: cadetblue;
+    background-color: #5f9ea0;
+    margin-left: 50%;
+    left: -3%;
+    position: absolute;
+    top: 142.5%;
+}
+
+
+.btn4 {
+    border-color: cadetblue;
+    background-color: #5f9ea0;
+    margin-left: 50%;
+    left: -3%;
+    position: absolute;
+    top: 195%;
+}
+
+
+.btn5 {
+    border-color: cadetblue;
+    background-color: #5f9ea0;
+    margin-left: 50%;
+    left: -3%;
+    position: absolute;
+    top: 241%;
+}
+
+
+.btn6 {
+    border-color: cadetblue;
+    background-color: #5f9ea0;
+    margin-left: 50%;
+    left: -3%;
+    position: absolute;
+    top: 283%;
+}
+
+
+.btn7 {
+    border-color: cadetblue;
+    background-color: #5f9ea0;
+    margin-left: 50%;
+    left: -3%;
+    position: absolute;
+}
+
+
+.escrita {
+    font size: 14px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 40%;
+    z-index: 2;
+}
+
+
+.escrita2 {
+    color: rgb(102, 106, 106);
+    position: absolute;
+    font-style: bold italic;
+    top: 170%;
+    left: 43%;
+}
+
+
+.raio{
+    position: absolute;
+    left: 43%;
+}
+
+
+.resultado1{
+    position: absolute;
+    top: 30%;
+    left: 43%;
+}
+
+
+.resultado2{
+    position: absolute;
+    top: 92%;
+    left: 43%;
+}
+
+
+.resultado3{
+    position: absolute;
+    top: 132.8%;
+    left: 43%;
+}
+
+.resultado4{
+    position: absolute;
+    top: 274%;
+    left: 43%;
+}
+
+.base{
+    position: absolute;
+    left: 43%;
+    top: 70%;
+}
+
+
+.altura{
+    position: absolute;
+    left: 43%;
+    top: 75.5%;
+}
+
+
+.valorF{
+    position: absolute;
+    left: 43%;
+    top: 127%;
+}
+
+
+.valor{
+    position: absolute;
+    top: 180%;
+    left: 43%;
+}
+
+.desconto{
+    position: absolute;
+    top: 186%;
+    left: 43%;
+}
+
+.valor3{
+    position: absolute;
+    top: 225%;
+    left: 43%;
+}
+
+.cubo{
+    position: absolute;
+    top: 231%;
+    left: 43%;
+}
+
+.custo{
+    position: absolute;
+    top: 268%;
+    left: 43%;
+}
