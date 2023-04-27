@@ -147,7 +147,7 @@
         <script type="text/javascript">
             function Calcular3() {
                 var valor2 = document.getElementById("valor2").value;
-                var conversão = ((valor2 - 32) * 0, 5556);
+                var conversão = ((valor2 - 32) * 0.5556);
                 document.getElementById("conversão").placeholder = conversão;
             }
 
